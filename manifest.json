@@ -1,0 +1,10 @@
+{
+  "id": "emoji-insensitive-search",
+  "name": "Emoji Insensitive Search",
+  "version": "0.1.0",
+  "minAppVersion": "1.15.0",
+  "description": "Ignore emojis in note names in Quick switcher and link suggestions when the query has none.",
+  "author": "TheWillyM4AK",
+  "authorUrl": "https://github.com/TheWillyM4AK",
+  "isDesktopOnly": false
+}
